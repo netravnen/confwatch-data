@@ -1,0 +1,13 @@
+{
+	"title": "BSides Luxembourg 2017",
+	"type": 0,
+	"description": "Information Security conference is 100% dedicated to defense, inspiring discussions and knowledge exchange among the participants.",
+	"website": "https://bsideslux.lu",
+	"country": "LU",
+	"city": "Luxembourg",
+    "address": "Alvisse Parc Hotel, 120 Route d’Echternach, Luxembourg, Luxembourg",
+	"starts": "2017-10-20T19:08:00+01:00",
+    "ends": "2017-10-20T19:17:30+01:00",
+    "tags": "bsides,bsideslux,defense,blueteam,dfir,infosec,threatintel",
+    "attributes": []
+}
