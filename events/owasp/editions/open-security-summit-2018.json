@@ -6,8 +6,8 @@
     "country": "UK",
     "city": "Bedfordshire",
     "address": "Woburn Forest Center Parcs, Millbrook Rd, Bedford MK45 2HZ",
-    "starts": "2018-08-04T09:00:00+01:00",
-    "ends": "2018-08-08T20:00:00+01:00",
+    "starts": "2018-06-04T09:00:00+01:00",
+    "ends": "2018-06-08T20:00:00+01:00",
     "tags": "owasp,open-security-summit",
     "attributes": []
 }
