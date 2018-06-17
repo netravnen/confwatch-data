@@ -1,0 +1,14 @@
+{
+	"title": "DevSecCon Tel-Aviv 2018",
+	"type": 0,
+	"description": "DevSecCon Tel-Aviv 2018",
+	"website": "https://www.devseccon.com/tel-aviv-2018/",
+	"country": "IL",
+	"city": "Tel-Aviv",
+	"address": "Tel Aviv Convention Center, Convention Hall 10",
+	"starts": "2018-05-07T08:30:00+03:00",
+	"ends": "2018-05-07T19:00:00+03:00",
+    "tags": "devseccon",
+	"attributes": [
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"title": "DevSecCon Singapore 2018",
+	"type": 0,
+	"description": "DevSecCon Singapore 2018",
+	"website": "https://www.devseccon.com/singapore-2018/",
+	"country": "SGP",
+	"city": "Singapore",
+	"address": "Swissotel Merchant Court Singapore",
+	"starts": "2018-02-22T09:00:00+08:00",
+	"ends": "2018-02-23T22:00:00+08:00",
+    "tags": "devseccon",
+	"attributes": [
+	]
+}
