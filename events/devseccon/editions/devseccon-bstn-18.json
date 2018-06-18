@@ -1,0 +1,14 @@
+{
+	"title": "DevSecCon Boston 2018",
+	"type": 0,
+	"description": "DevSecCon Boston 2018",
+	"website": "https://www.devseccon.com/boston-2018/",
+	"country": "US",
+	"city": "Boston",
+	"address": "Boston Public Library, McKim Building, 700 Boylston Street, Boston, MA 02116",
+	"starts": "2018-09-10T09:00:00-04:00",
+	"ends": "2018-09-13T22:00:00-04:00",
+    "tags": "devseccon",
+	"attributes": [
+	]
+}
