@@ -8,7 +8,8 @@
 	"address": "CodeNode, 10 South Place, London, EC2M 7EB, UK",
 	"starts": "2018-10-18T09:00:00-04:00",
 	"ends": "2018-10-19T22:00:00-04:00",
-    "tags": "devseccon",
+	"tags": "devseccon",
 	"attributes": [
+		"code-of-conduct"
 	]
 }
