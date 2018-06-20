@@ -8,7 +8,8 @@
 	"address": "Boston Public Library, McKim Building, 700 Boylston Street, Boston, MA 02116",
 	"starts": "2018-09-10T09:00:00-04:00",
 	"ends": "2018-09-13T22:00:00-04:00",
-    "tags": "devseccon",
+	"tags": "devseccon",
 	"attributes": [
+		"code-of-conduct"
 	]
 }
