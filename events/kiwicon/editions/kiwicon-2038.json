@@ -1,0 +1,15 @@
+{
+    "title": "Kiwicon 2038",
+    "type": 0,
+    "description": "Kiwicon is a New Zealand computer security conference held annually in Wellington from 2007 to 2016. It returns now for 2018 to its November timeslot.",
+    "website": "https://www.kiwicon.org/",
+    "country": "NZ",
+    "city": "Wellington",
+    "address": "TBD",
+    "starts": "2018-11-16T09:00:00+12:00",
+    "ends": "2018-11-17T20:00:00+12:00",
+    "tags": "kiwicon",
+    "attributes": [
+        "kids-friendly"
+    ]
+}
