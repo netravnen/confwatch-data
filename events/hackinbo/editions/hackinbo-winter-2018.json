@@ -1,0 +1,13 @@
+{
+	"title": "HackInBo Winter Edition 2018",
+	"type": 0,
+	"description": "HackInBo è il primo evento totalmente gratuito sulla Sicurezza Informatica nella città di Bologna. L’evento nasce per sopperire alla mancanza di una manifestazione di questo tipo sul territorio Bolognese. Ci sarà l’occasione per parlare e incontrare esperti del settore in un’atmosfera rilassata e collaborativa cogliendo l’occasione per rimanere aggiornati sulle ultime tematiche riguardanti l’IT-Security.",
+	"website": "https://hackinbo.it/",
+	"country": "IT",
+	"city": "Bologna",
+	"address": "FICO - Via Paolo Canali, 8, 40127 Bologna BO",
+	"starts": "2018-10-27T09:30:00+01:00",
+	"ends": "2018-10-27T18:30:00+01:00",
+    "tags": "hackinbo,hib18",
+	"attributes": []
+}
