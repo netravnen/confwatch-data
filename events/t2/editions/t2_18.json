@@ -1,0 +1,13 @@
+{
+	"title": "T2'18",
+	"type": 0,
+	"description": "The conference focuses on newly emerging information security research with a balance of topics on auditing and pen-testing, and security and defensive strategies. In general, presentations will address different aspects of information security—all presentations will include demos and be technically oriented and practical.",
+	"website": "https://t2.fi/conference",
+	"country": "FI",
+	"city": "Helsinki",
+	"address": "Radisson Blu Seaside Hotel",
+	"starts": "2018-10-25T09:00:00+01:00",
+	"ends": "2018-10-26T22:00:00+01:00",
+    "tags": "defcon,defcon26,dc26",
+	"attributes": ["infosec"]
+}
