@@ -10,7 +10,7 @@
 
 ---
 
-This repository contains the data files for the ConfWatch project, it is from the community for the community <3
+This repository contains the data files for the ConfWatch project, it is from the community for the community ❤️
 
 Contributing
 ==
