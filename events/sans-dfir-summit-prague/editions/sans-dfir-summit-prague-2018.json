@@ -1,0 +1,13 @@
+{
+	"title": "SANS DFIR Summit Prague 2018",
+	"type": 2,
+	"description": "The annual SANS DFIR Prague Summit is the most comprehensive DFIR event of the year in Europe, bringing together an influential group of experts, immersion-style training, and industry networking opportunities in one place. The Summit brings together DFIR practitioners who share their experiences, case studies and stories from the field. Summit attendees will explore real-world applications of technologies and solutions from all aspects of the fields of digital forensics and incident response.",
+	"website": "https://www.sans.org/event/dfir-prague-2018",
+	"country": "CZ",
+	"city": "Prague",
+	"address": "Angelo Hotel Prague",
+	"starts": "2018-10-01T09:00:00+01:00",
+	"ends": "2018-10-07T17:00:00+01:00",
+    "tags": "SANSDFIRSummitPrague",
+	"attributes": []
+}
