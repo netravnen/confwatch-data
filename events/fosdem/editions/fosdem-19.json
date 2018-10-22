@@ -6,8 +6,8 @@
 	"country": "BE",
 	"city": "Brussels",
 	"address": "ULB, Campus du Solbosch, Av. F. D. Roosevelt 50",
-	"starts": "2018-02-02T09:00:00+01:00",
-	"ends": "2018-02-03T22:00:00+01:00",
+	"starts": "2019-02-02T09:00:00+01:00",
+	"ends": "2019-02-03T22:00:00+01:00",
 	"tags": "FOSDEM",
 	"attributes": []
 }
