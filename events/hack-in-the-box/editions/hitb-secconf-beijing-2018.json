@@ -1,0 +1,13 @@
+{
+	"title": "HITB Security Conference Beijing 2018",
+	"type": 0,
+	"description": "The first ever HITB Security Conference in Beijing, featuring 3-days of hands on technical training sessions, a 2-day triple track conference and a 2-day Capture the Flag competition, technology exhibition with hackerspaces, Artificial Intelligence and hardware related exhibits plus a free-to-attend track of 30 and 60 minute talks!",
+	"website": "https://conference.hitb.org/hitbsecconf2018pek/",
+	"country": "CH",
+	"city": "Beijing",
+	"address": "Kempinski Hotel Beijing",
+	"starts": "2018-10-29T09:00:00+00:00",
+	"ends": "2018-11-02T22:00:00+00:00",
+	"tags": "hitb, hitbsecconf2018pek, hitb2018",
+	"attributes": []
+}
