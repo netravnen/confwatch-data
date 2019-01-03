@@ -1,0 +1,13 @@
+{
+	"title": "BornHack 2018",
+	"type": 0,
+	"description": "BornHack is a 7 day outdoor tent camp where hackers, makers and people with an interest in technology or security come together to celebrate technology, socialise, learn and have fun.",
+	"website": "https://bornhack.dk/bornhack-2019/",
+	"country": "DK",
+	"city": "Aakirkeby",
+	"address": "55.009602, 14.974909",
+	"starts": "2019-08-08T12:00:00+01:00",
+	"ends": "2019-08-15T18:00:00+02:00",
+    	"tags": "denmark,bornholm,2019",
+	"attributes": [ "kids-friendly", "ctf", "code-of-conduct", "pets-friendly" ]
+}
