@@ -1,0 +1,16 @@
+{
+	"title": "DKNOG9",
+	"type": 0,
+	"description": "The DKNOG conference is a yearly event for internet network engineers in Denmark and the neighbouring countries full of inspiring talks and networking opportunities.
+The next conference will be the ninth annual conference and we hope to present a range of interesting topics within subjects such as:
+o Emerging internet technologies / o Industry best-practice sessions / o Interesting case-studies from within the industry / o Inspiring lightning talks",
+	"website": "https://dknog9.dknog.dk/",
+	"country": "DK",
+	"city": "Copenhagen",
+	"address": "Park Inn by Radisson",
+	"starts": "2019-03-14T08:00:00+01:00",
+	"ends": "2019-03-15T15:00:00+01:00",
+	"tags": "dknog9",
+	"attributes": []
+}
+
