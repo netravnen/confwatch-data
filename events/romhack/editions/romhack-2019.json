@@ -1,0 +1,13 @@
+{
+	"title": "RomHack 2019",
+	"type": 0,
+	"description": "RomHack è un evento di sicurezza gratuito organizzato dall'associazione di promozione sociale Cyber Saiyan. L'edizione 2019 si svolge a Roma presso l'Università degli Studi Link Campus University", 
+	"website": "https://www.romhack.io/",
+	"country": "IT",
+	"city": "Rome",
+	"address": "Università degli Studi Link Campus University, via del Casale di S. Pio V, 44, Rome, Italy",
+	"starts": "2019-09-28T10:30:00+01:00",
+	"ends": "2019-09-28T17:30:00+01:00",
+    	"tags": "romhack,rome,italy",
+	"attributes": []
+}
