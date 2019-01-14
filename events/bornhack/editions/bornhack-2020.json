@@ -4,10 +4,10 @@
   "description": "BornHack is a 7 day outdoor tent camp where hackers, makers and people with an interest in technology or security come together to celebrate technology, socialise, learn and have fun.",
   "website": "https://bornhack.dk/bornhack-2020/",
   "country": "DK",
-  "city": "Aakirkeby",
-  "address": "55.009602, 14.974909",
+  "city": "Gelsted",
+  "address": "Hylkedamvej 54, DK-5591 Gelsted",
   "starts": "2020-08-11T12:00:00+02:00",
   "ends": "2020-08-18T18:00:00+02:00",
-    "tags": "denmark,bornholm,2020",
+    "tags": "denmark,2020",
   "attributes": [ "kids-friendly", "ctf", "code-of-conduct", "pets-friendly" ]
 }
